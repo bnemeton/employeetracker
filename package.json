@@ -1,0 +1,17 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "An employee management system.",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brigid Winitsky",
+  "license": "UNLICENSED"
+}
